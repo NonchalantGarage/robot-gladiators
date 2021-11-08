@@ -59,4 +59,5 @@ if (promptFight === "fight" || promptFight === "FIGHT") {
     else {
       fight();
     }
-  }
+  }var enemyNames = ["Roborto", "Amy Android", "Robo Trumble"];
+
